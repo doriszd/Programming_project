@@ -1,7 +1,7 @@
 # Programming_project
 Programming for DA - project
 
-![alt text](hormones.png)
+![alt text](Hormones.png)
 
 In this project I will:
 
